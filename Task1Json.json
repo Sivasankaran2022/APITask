@@ -1,0 +1,12 @@
+{
+	"name": "Siva",
+	"email": "sivasankaran1514@gmail.com",
+	"phoneNo": 84228753783,
+	"prize": 12.45,
+	"paymentReceived": true,
+	"address": {
+		"streetName": "Sakthi Nagar",
+		"district": "Chennai",
+		"state": "TN"
+	}
+}

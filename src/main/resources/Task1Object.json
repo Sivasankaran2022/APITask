@@ -1,0 +1,12 @@
+{
+	"name": "Bala",
+	"email": "Bala@gmail.com",
+	"phoneNo": 8428753783,
+	"prize": 12.45,
+	"paymentReceive": true,
+	"address": {
+		"streetName": "Sakthi nagar",
+		"district": "Chennai",
+		"state": "TN"
+	}
+}
